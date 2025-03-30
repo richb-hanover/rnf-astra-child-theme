@@ -1,2 +1,4 @@
 # RandomNeuronsFiring Child Theme	
-This repo tracks the child theme 
+
+This repo contains all the files used for the Astra child theme on Random Neurons Firing blog.
+
